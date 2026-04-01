@@ -18,12 +18,24 @@ Automation of invoice processing using:
 6. Enables editing in Power Apps
 
 🏗️ Architektura
+
 Power Automate → AI Builder → Dataverse → Power Apps
 
 📸 Screenshots
+
 Flow (Power Automate)
 ![alt text](image-1.png)
+
 ![alt text](image-2.png)
+
+Add a new account
+![alt text](image-3.png)
+
+Add a new invoice
+![alt text](image-4.png)
+
+Send email
+![alt text](image-5.png)
 
 💡 Challenges
 
@@ -35,3 +47,6 @@ Flow (Power Automate)
 - Azure Functions (C# fallback)
 - CI/CD (ALM)
 - ERP integration
+
+🏁 Overview:
+This project focused on automating invoice processing using the Power Platform ecosystem, including Power Automate, Power Apps, Microsoft Dataverse, and AI Builder. The goal was to streamline data extraction, validation, and management while reducing manual effort.
