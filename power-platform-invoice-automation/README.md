@@ -52,11 +52,24 @@ Power Automate → AI Builder → Dataverse → Power Apps
 ![alt text](image-4.png)
 
 
+➕ Fetch currency by invoice symbol
+
+![alt text](image-5.png)
+
+
 ➕ Add a new invoice
 
+![alt text](image-6.png)
 
 ✉️ Send email
 
+![alt text](image-7.png)
+
+🏢 CRM Dynamic
+
+![alt text](image-8.png)
+
+![alt text](image-9.png)
 
 
 💡 Challenges
