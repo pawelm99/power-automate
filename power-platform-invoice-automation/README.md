@@ -1,5 +1,10 @@
 🧩 Projekt: Invoice Processing Automation (Power Platform)
 
+The goal of this project is to automatically create invoices in CRM when attachments are added to SharePoint. The process logic should include:
+
+Creating a new account for the seller and the customer if they do not already exist in the system.
+Creating an invoice based on the attachment, using the selected currency.
+If the seller and customer records already exist, new records should not be created.
 
 Description:
 
@@ -30,21 +35,28 @@ Power Automate → AI Builder → Dataverse → Power Apps
 
 ⚙️ Flow (Power Automate)
 
+![alt text](image.png)
+
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)
 
-➕ Add a new account
+
+➕ Add a new seller when not exists
 
 ![alt text](image-3.png)
 
-➕ Add a new invoice
+
+➕ Add a new customer when not exists
 
 ![alt text](image-4.png)
 
+
+➕ Add a new invoice
+
+
 ✉️ Send email
 
-![alt text](image-5.png)
 
 
 💡 Challenges
